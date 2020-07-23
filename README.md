@@ -28,3 +28,6 @@ Execute the following commands in terminal (windows)
 	
 	"part_names":[1,4,6]
 }
+
+
+Import SQL DB file (cycle_cost.sql) for cecking response.
